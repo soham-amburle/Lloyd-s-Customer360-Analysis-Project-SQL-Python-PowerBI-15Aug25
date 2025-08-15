@@ -129,7 +129,7 @@ Lloyd-s_Finance_Project/
 │   └── lloyds_customer_360.sql
 │
 ├── python/
-│   └── eda_analysis.ipynb
+│   └── Lloyds_eda.ipynb
 │
 ├── dashboards/
 │   ├── executive_overview_dashboard.png
