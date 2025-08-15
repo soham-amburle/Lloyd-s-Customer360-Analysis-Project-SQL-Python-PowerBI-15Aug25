@@ -103,7 +103,7 @@ Lloyd-s_Finance_Project/
 │   └── complaints.csv
 │
 ├── sql/
-│   └── data_cleanup_and_merge.sql
+│   └── lloyds_customer_360.sql
 │
 ├── python/
 │   └── eda_analysis.ipynb
