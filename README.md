@@ -109,7 +109,7 @@ Based on EDA insights, the following dashboards are planned for business reporti
 - 5 Visual dashboards for easy executive interpretation, and decision making
 
 ## Project Structure
-,,,
+```text
 Lloyd-s_Finance_Project/
 │
 ├── data/
