@@ -1,0 +1,500 @@
+1145,Customer_144,52,Female,London,Current,6.3,49580.26,19,31510.31,1658.44,25813.52,4.89,Closed,1,9.00
+1364,Customer_363,77,Male,North,Savings,4.3,19733.05,19,35085.71,1846.62,27698.31,2.22,Closed,1,13.00
+1181,Customer_180,43,Male,South West,Current,4.5,4841.08,28,41129.46,1468.91,264.27,7.66,Closed,1,4.00
+1300,Customer_299,49,Female,Midlands,Business,18.8,24858.7,13,31685.19,2437.32,2284.59,3.31,Defaulted,1,18.00
+1112,Customer_111,74,Male,South West,Current,15.3,19680.45,20,37446.26,1872.31,20540.15,3.02,Defaulted,1,13.00
+1102,Customer_101,79,Female,Wales,Business,12.0,25016.76,17,22920.65,1348.27,27727.67,7.61,Active,1,22.00
+1172,Customer_171,52,Female,Scotland,Savings,0.9,5786.44,13,7209.92,554.61,7758.76,5.22,Defaulted,1,16.00
+1075,Customer_74,64,Male,Wales,Current,17.4,36243.44,23,39938.72,1736.47,811.82,1.55,Defaulted,1,8.00
+1284,Customer_283,66,Female,South West,Current,3.5,49100.26,18,35181.30,1954.52,12990.32,1.7,Active,1,22.00
+1183,Customer_182,31,Male,North,Savings,3.9,27549.59,15,22061.50,1470.77,28583.39,7.63,Defaulted,2,10.50
+1349,Customer_348,74,Male,Midlands,Savings,9.8,13480.14,20,36504.59,1825.23,4678.92,4.8,Closed,1,10.00
+1050,Customer_49,68,Male,Wales,Savings,9.6,30167.4,13,24500.78,1884.68,5253.32,2.59,Defaulted,1,14.00
+1333,Customer_332,43,Male,Wales,Current,9.2,11338.66,24,41467.82,1727.83,2088.24,2.45,Closed,1,26.00
+1034,Customer_33,39,Female,North,Business,1.6,41277.52,15,26860.55,1790.70,21564.52,1.83,Closed,1,15.00
+1195,Customer_194,56,Male,Wales,Business,8.2,12995.74,16,21307.46,1331.72,12426.87,3.1,Closed,1,17.00
+1174,Customer_173,52,Female,South West,Current,7.0,46022.83,11,14207.08,1291.55,5805.52,3.41,Closed,1,19.00
+1317,Customer_316,28,Female,Scotland,Savings,9.0,2901.19,17,33457.11,1968.07,12073.41,2.56,Defaulted,1,27.00
+1059,Customer_58,38,Female,Midlands,Business,5.0,14938.02,23,39147.89,1702.08,1220.84,5.65,Active,2,27.50
+1044,Customer_43,33,Female,South West,Business,16.5,46828.81,22,46465.41,2112.06,20342.39,5.27,Defaulted,1,13.00
+1466,Customer_465,70,Female,London,Current,12.9,6209.45,18,38044.89,2113.61,29963.41,6.58,Closed,1,15.00
+1062,Customer_61,35,Female,North,Current,19.3,3824.03,23,37127.18,1614.23,2490.13,5.68,Closed,2,25.00
+1331,Customer_330,53,Male,North,Business,12.1,450.76,25,34549.82,1381.99,18696.41,6.15,Active,1,6.00
+1363,Customer_362,69,Female,Wales,Savings,9.8,44118.57,19,35335.86,1859.78,16762.35,6.41,Closed,1,28.00
+1366,Customer_365,19,Female,South West,Current,12.5,39406.88,20,24459.69,1222.98,8777.64,3.3,Active,1,24.00
+1307,Customer_306,73,Male,London,Business,6.7,10226.52,19,31429.92,1654.21,9259.57,2.62,Active,1,19.00
+1242,Customer_241,79,Female,North,Business,7.5,26255.54,22,45052.78,2047.85,17182.33,2.94,Active,2,13.50
+1376,Customer_375,26,Female,North,Savings,16.6,48371.07,26,29961.20,1152.35,29750.42,4.56,Defaulted,1,29.00
+1404,Customer_403,46,Male,Scotland,Current,6.4,17863.07,19,30619.82,1611.57,29728.13,3.64,Defaulted,1,2.00
+1167,Customer_166,52,Male,Scotland,Business,15.0,23964.94,18,48667.76,2703.76,22614.28,2.97,Defaulted,1,20.00
+1064,Customer_63,42,Male,Midlands,Business,14.8,13342.83,18,34280.48,1904.47,9825.02,3.64,Defaulted,1,5.00
+1433,Customer_432,72,Male,Scotland,Current,7.2,9860.9,27,34533.09,1279.00,22935.96,5.47,Defaulted,1,24.00
+1400,Customer_399,79,Male,Scotland,Business,18.2,37489.26,17,28760.66,1691.80,3818.86,6.48,Active,1,14.00
+1488,Customer_487,35,Female,North,Current,12.4,15771.63,16,15183.03,948.94,3002.99,3.81,Closed,1,26.00
+1340,Customer_339,58,Male,Wales,Current,11.1,2325.29,26,35471.43,1364.29,27813.22,2.98,Closed,2,23.50
+1384,Customer_383,41,Female,North,Savings,4.1,49027.79,17,22981.15,1351.83,4793.96,1.93,Active,1,25.00
+1171,Customer_170,44,Male,Wales,Business,3.7,23769.37,23,25825.33,1122.84,8799.7,2.07,Closed,1,25.00
+1252,Customer_251,26,Female,Midlands,Current,11.0,23568.92,11,19239.46,1749.04,16200.25,2.01,Active,2,15.00
+1492,Customer_491,71,Male,South West,Business,2.8,26319.2,18,23678.23,1315.46,9602.99,3.2,Closed,1,8.00
+1236,Customer_235,56,Male,South West,Savings,13.6,37143.17,19,26568.34,1398.33,1175.68,6.57,Active,1,7.00
+1438,Customer_437,55,Male,Scotland,Business,15.6,13894.44,26,38699.67,1488.45,24133.24,3.99,Active,1,5.00
+1447,Customer_446,47,Female,North,Savings,16.7,30712.31,20,52790.43,2639.52,28889.92,7.99,Defaulted,1,6.00
+1057,Customer_56,68,Female,Midlands,Business,16.9,37737.25,20,33089.55,1654.48,29136.15,2.8,Closed,2,16.00
+1094,Customer_93,21,Male,South West,Current,12.2,41731.74,25,28014.17,1120.57,25086.57,1.88,Active,1,27.00
+1396,Customer_395,37,Female,South West,Business,16.0,10882.91,19,24928.85,1312.04,21556.09,3.29,Closed,1,7.00
+1481,Customer_480,69,Male,Midlands,Current,15.5,14894.84,19,34742.63,1828.56,17313.29,7.19,Defaulted,1,6.00
+1322,Customer_321,77,Male,London,Current,7.8,24097.21,19,40884.04,2151.79,5321.0,1.67,Defaulted,1,21.00
+1110,Customer_109,40,Female,Wales,Business,14.6,30742.66,19,12924.53,680.24,6018.33,6.62,Closed,1,11.00
+1066,Customer_65,31,Male,London,Business,17.2,34611.74,17,38217.87,2248.11,19068.27,3.96,Defaulted,2,17.50
+1490,Customer_489,59,Male,North,Savings,3.6,40980.83,23,36408.33,1582.97,27545.18,2.77,Defaulted,1,29.00
+1090,Customer_89,79,Female,North,Savings,19.4,34080.64,28,30820.34,1100.73,29290.77,6.33,Active,1,7.00
+1289,Customer_288,40,Male,Scotland,Business,19.6,6206.6,20,26087.94,1304.40,26150.24,2.97,Defaulted,1,19.00
+1473,Customer_472,46,Female,Midlands,Business,6.4,34374.36,13,8978.16,690.63,8657.31,5.12,Defaulted,1,28.00
+1161,Customer_160,65,Male,South West,Savings,12.1,33400.78,22,33865.79,1539.35,25978.39,7.91,Defaulted,1,19.00
+1425,Customer_424,20,Male,North,Savings,3.3,14193.3,20,28887.91,1444.40,25738.28,7.43,Closed,1,19.00
+1170,Customer_169,39,Female,North,Savings,1.4,6349.16,16,25289.01,1580.56,3669.4,1.98,Active,2,8.50
+1130,Customer_129,32,Female,Wales,Current,16.6,22585.92,22,22434.49,1019.75,5076.91,2.3,Active,2,14.00
+1371,Customer_370,22,Male,Scotland,Current,11.8,36285.27,22,19514.01,887.00,6734.85,4.67,Active,2,20.50
+1168,Customer_167,61,Female,London,Current,17.5,44801.15,19,27821.97,1464.31,2216.76,4.3,Defaulted,1,11.00
+1015,Customer_14,41,Female,Midlands,Business,7.8,7149.77,15,9837.00,655.80,8079.49,6.52,Closed,1,17.00
+1124,Customer_123,77,Male,Scotland,Business,15.6,41274.1,14,21988.13,1570.58,1507.11,3.88,Defaulted,1,18.00
+1416,Customer_415,21,Male,Wales,Business,10.9,8164.83,22,36674.50,1667.02,24935.86,7.2,Active,1,27.00
+1186,Customer_185,26,Female,North,Savings,17.0,13762.19,23,30684.90,1334.13,28853.36,7.43,Closed,2,17.00
+1070,Customer_69,43,Female,South West,Current,6.6,11709.01,21,16200.20,771.44,27448.34,7.63,Closed,2,14.00
+1001,Customer_0,56,Female,Midlands,Savings,17.6,47125.11,19,40082.58,2109.61,6694.73,6.42,Defaulted,1,29.00
+1385,Customer_384,71,Female,London,Business,18.4,11447.73,20,31167.26,1558.36,11309.66,1.59,Defaulted,1,4.00
+1233,Customer_232,72,Female,London,Business,9.1,44002.84,14,24598.22,1757.02,12157.39,5.58,Closed,1,25.00
+1247,Customer_246,20,Female,North,Current,15.7,37502.32,22,30242.90,1374.68,25498.18,5.8,Defaulted,1,18.00
+1068,Customer_67,75,Male,Scotland,Current,15.3,31696.16,22,30660.05,1393.64,22996.6,7.43,Defaulted,1,7.00
+1346,Customer_345,18,Female,Scotland,Current,3.4,18623.23,18,26904.46,1494.69,27173.18,4.01,Active,1,9.00
+1028,Customer_27,19,Male,South West,Current,15.5,30357.91,24,57788.89,2407.87,12209.13,3.5,Active,1,1.00
+1239,Customer_238,18,Female,South West,Savings,12.0,34425.42,23,31044.31,1349.75,7868.04,7.68,Defaulted,1,17.00
+1267,Customer_266,69,Female,Midlands,Business,13.9,20176.12,17,7943.12,467.24,26845.32,2.03,Closed,1,27.00
+1409,Customer_408,71,Male,North,Current,15.4,43619.57,25,48190.02,1927.60,6276.22,5.43,Active,2,17.00
+1312,Customer_311,22,Female,South West,Business,6.1,29331.93,13,12409.44,954.57,11951.1,6.82,Closed,1,20.00
+1084,Customer_83,34,Male,South West,Current,9.3,48194.73,25,47956.96,1918.28,1817.91,6.75,Closed,1,19.00
+1387,Customer_386,50,Male,Scotland,Current,2.2,27173.04,29,32632.66,1125.26,5930.37,5.92,Active,1,2.00
+1377,Customer_376,58,Male,Scotland,Current,10.7,9232.47,18,23844.35,1324.69,12144.39,4.91,Closed,2,22.00
+1060,Customer_59,26,Male,South West,Current,3.1,21573.83,10,27445.17,2744.52,989.52,2.88,Active,1,22.00
+1423,Customer_422,25,Male,Midlands,Savings,12.8,4798.18,20,35190.74,1759.54,232.63,5.3,Closed,1,4.00
+1017,Customer_16,53,Male,South West,Current,16.5,40954.88,21,59223.54,2820.17,22434.73,6.37,Closed,1,7.00
+1149,Customer_148,22,Male,Midlands,Business,15.8,17806.58,23,30684.76,1334.12,24686.45,7.18,Closed,1,21.00
+1148,Customer_147,76,Male,Scotland,Current,12.7,39213.75,19,32022.59,1685.40,9281.17,3.63,Closed,1,23.00
+1071,Customer_70,70,Male,South West,Business,6.8,11118.05,19,19375.64,1019.77,10945.22,4.48,Defaulted,1,28.00
+1304,Customer_303,21,Female,London,Business,7.3,37386.26,17,36451.67,2144.22,13305.6,1.77,Closed,1,6.00
+1224,Customer_223,45,Female,South West,Current,8.3,43869.21,17,32211.56,1894.80,18647.02,2.8,Defaulted,1,8.00
+1103,Customer_102,53,Male,Scotland,Current,8.9,13374.36,25,35969.91,1438.80,22787.17,6.48,Closed,1,4.00
+1401,Customer_400,42,Male,Wales,Savings,15.5,14600.32,26,36013.32,1385.13,3579.36,4.7,Closed,1,23.00
+1302,Customer_301,49,Male,Midlands,Savings,13.5,34326.97,20,20833.49,1041.67,18185.05,6.44,Closed,1,20.00
+1244,Customer_243,69,Male,South West,Business,12.3,42014.2,16,20377.38,1273.59,2096.88,6.53,Closed,1,20.00
+1007,Customer_6,78,Female,Wales,Current,11.3,19613.03,20,28561.67,1428.08,18859.22,6.14,Defaulted,1,14.00
+1383,Customer_382,37,Male,Wales,Business,16.0,27300.77,20,12433.16,621.66,506.32,1.93,Defaulted,1,19.00
+1303,Customer_302,72,Female,Scotland,Business,11.8,49557.21,15,22987.29,1532.49,9347.21,2.69,Active,1,4.00
+1432,Customer_431,39,Female,London,Business,0.8,22109.5,20,44849.37,2242.47,6228.34,5.81,Closed,1,26.00
+1292,Customer_291,50,Female,North,Savings,5.3,18633.96,23,28648.61,1245.59,11535.8,5.87,Closed,1,26.00
+1213,Customer_212,76,Female,Wales,Business,8.6,24470.87,15,28840.98,1922.73,18953.87,2.53,Closed,1,20.00
+1185,Customer_184,44,Female,South West,Savings,8.6,8267.82,16,15390.39,961.90,17200.37,5.92,Defaulted,1,6.00
+1352,Customer_351,40,Male,South West,Business,15.1,2420.38,20,19510.44,975.52,9796.73,5.75,Active,1,28.00
+1266,Customer_265,58,Female,North,Business,9.9,19444.91,21,32754.63,1559.74,26451.76,7.64,Defaulted,1,4.00
+1311,Customer_310,41,Male,North,Business,2.3,35042.57,18,25800.02,1433.33,11234.28,2.66,Closed,2,23.00
+1134,Customer_133,24,Male,North,Current,4.4,22219.33,19,39930.73,2101.62,2467.31,6.8,Defaulted,2,17.50
+1093,Customer_92,59,Female,London,Business,0.5,16242.67,28,41327.71,1475.99,11066.11,6.22,Closed,1,10.00
+1222,Customer_221,70,Male,London,Savings,13.2,4778.47,18,17914.18,995.23,12934.19,7.7,Defaulted,1,21.00
+1097,Customer_96,35,Male,South West,Business,11.4,3324.37,15,22043.25,1469.55,16836.11,2.11,Defaulted,1,14.00
+1374,Customer_373,76,Female,Scotland,Current,8.3,15504.07,16,36961.77,2310.11,20297.76,1.55,Defaulted,1,14.00
+1358,Customer_357,77,Male,London,Business,1.9,4412.59,20,24762.51,1238.13,21255.98,7.06,Active,2,8.00
+1318,Customer_317,65,Male,Midlands,Current,18.1,42651.13,21,39401.59,1876.27,24558.45,6.22,Defaulted,1,17.00
+1142,Customer_141,68,Female,South West,Savings,12.1,25478.11,11,18730.75,1702.80,9890.07,2.48,Active,2,23.00
+1078,Customer_77,61,Female,Midlands,Business,9.7,32738.38,15,29507.24,1967.15,1595.2,6.59,Defaulted,1,27.00
+1279,Customer_278,54,Male,Scotland,Savings,18.8,16173.19,26,26694.52,1026.71,13883.61,4.6,Defaulted,3,20.00
+1054,Customer_53,74,Female,London,Savings,10.8,9669.94,18,7718.79,428.82,18971.92,4.76,Active,1,29.00
+1083,Customer_82,31,Male,Midlands,Savings,3.5,19415.23,20,19762.71,988.14,20803.42,4.38,Active,2,13.50
+1412,Customer_411,78,Male,Scotland,Business,3.5,37729.97,25,40572.97,1622.92,26913.83,6.45,Active,1,17.00
+1449,Customer_448,45,Female,South West,Business,1.9,44869.6,12,13326.14,1110.51,21023.75,6.09,Closed,1,15.00
+1154,Customer_153,45,Male,Midlands,Current,12.2,21272.41,27,11761.41,435.61,9240.33,5.55,Defaulted,1,26.00
+1182,Customer_181,72,Female,North,Savings,16.9,18862.05,27,33009.72,1222.58,15940.52,2.08,Active,1,17.00
+1120,Customer_119,70,Female,North,Savings,0.9,14040.45,15,14398.23,959.88,19733.36,1.83,Defaulted,1,8.00
+1499,Customer_498,49,Male,Wales,Current,16.6,37009.6,19,39255.99,2066.10,5016.45,3.06,Active,1,24.00
+1087,Customer_86,57,Female,Midlands,Business,16.0,20987.17,20,33183.79,1659.19,4121.92,7.75,Defaulted,1,4.00
+1055,Customer_54,20,Male,Midlands,Current,16.6,10666.59,16,27206.04,1700.38,29576.87,7.76,Active,1,17.00
+1355,Customer_354,59,Female,South West,Current,16.5,17361.43,24,25899.15,1079.13,19268.94,7.0,Closed,1,26.00
+1282,Customer_281,34,Male,London,Savings,4.2,34801.24,21,37450.53,1783.36,13386.56,1.53,Closed,1,25.00
+1105,Customer_104,48,Male,London,Savings,3.4,6447.27,23,30463.56,1324.50,15130.05,7.54,Defaulted,1,26.00
+1417,Customer_416,50,Female,Scotland,Savings,4.0,12849.12,20,37856.53,1892.83,25075.82,6.64,Defaulted,1,12.00
+1253,Customer_252,79,Female,Scotland,Business,1.2,25152.31,22,24602.96,1118.32,24750.0,6.24,Defaulted,1,26.00
+1111,Customer_110,77,Male,Midlands,Current,13.3,42992.31,24,46468.28,1936.18,22791.78,2.5,Active,1,25.00
+1107,Customer_106,32,Male,London,Savings,13.8,12249.55,17,24593.32,1446.67,22405.94,6.41,Active,1,17.00
+1189,Customer_188,43,Male,Midlands,Business,15.5,24852.79,22,34900.00,1586.36,24655.5,3.14,Closed,1,21.00
+1474,Customer_473,66,Male,London,Savings,19.6,4742.22,20,25692.10,1284.61,29442.84,3.44,Defaulted,1,21.00
+1074,Customer_73,45,Female,London,Business,4.4,42415.99,21,37598.03,1790.38,29202.06,6.42,Active,,
+1351,Customer_350,67,Female,Midlands,Current,11.2,42669.17,16,14634.97,914.69,10871.03,7.67,Active,,
+1046,Customer_45,79,Female,South West,Current,16.5,13959.86,26,31720.82,1220.03,14266.76,3.8,Active,,
+1350,Customer_349,42,Female,London,Savings,8.2,7903.45,14,17011.56,1215.11,8902.43,5.15,Active,,
+1191,Customer_190,77,Male,South West,Business,11.1,49621.53,23,28193.46,1225.80,26718.5,3.52,Closed,,
+1080,Customer_79,25,Female,North,Savings,3.6,26322.68,11,24062.77,2187.52,24058.27,4.22,Defaulted,,
+1209,Customer_208,53,Male,Scotland,Savings,12.2,5486.39,22,33122.14,1505.55,23153.41,1.62,Active,,
+1420,Customer_419,65,Male,Midlands,Business,4.5,37561.4,21,31915.10,1519.77,27656.28,7.04,Closed,,
+1042,Customer_41,45,Male,London,Savings,8.0,6189.55,22,44062.23,2002.83,13081.82,4.51,Defaulted,,
+1495,Customer_494,57,Female,South West,Current,7.9,4450.26,21,28631.54,1363.41,14196.71,5.91,Defaulted,,
+1101,Customer_100,27,Male,Wales,Current,6.9,32339.9,23,43190.18,1877.83,24124.23,4.18,Active,,
+1468,Customer_467,52,Female,London,Current,3.8,16218.26,17,53744.75,3161.46,12170.14,2.02,Active,,
+1288,Customer_287,71,Male,North,Savings,13.4,18735.78,22,48326.37,2196.65,10317.1,3.07,Closed,,
+1439,Customer_438,62,Male,Wales,Current,5.7,15686.22,29,44273.00,1526.66,23735.66,3.58,Defaulted,,
+1231,Customer_230,28,Female,South West,Savings,5.1,13967.31,18,23314.77,1295.27,24748.64,7.9,Active,,
+1076,Customer_75,77,Male,Wales,Business,14.4,39625.47,24,16602.82,691.78,21839.29,4.73,Active,,
+1143,Customer_142,34,Male,Wales,Savings,12.5,19441.0,17,24190.11,1422.95,22478.14,7.24,Closed,,
+1269,Customer_268,79,Female,Wales,Current,6.8,25554.47,18,23610.64,1311.70,4544.1,6.98,Active,,
+1092,Customer_91,71,Female,Scotland,Current,9.5,30985.51,22,18373.56,835.16,4281.23,6.15,Active,,
+1283,Customer_282,76,Female,Midlands,Business,14.8,37321.67,27,60397.25,2236.94,19674.82,6.54,Active,,
+1369,Customer_368,79,Male,North,Savings,18.6,48979.59,30,35072.69,1169.09,15899.68,3.25,Active,,
+1114,Customer_113,57,Female,Midlands,Savings,18.2,6743.94,22,29575.08,1344.32,20021.36,6.82,Defaulted,,
+1314,Customer_313,51,Female,Wales,Business,13.2,34913.76,22,34595.21,1572.51,27490.38,2.01,Active,,
+1419,Customer_418,38,Female,South West,Current,5.0,28053.09,16,32846.93,2052.93,18975.23,2.31,Closed,,
+1043,Customer_42,77,Female,Wales,Business,1.8,29755.11,19,27549.64,1449.98,12880.94,6.1,Active,,
+1465,Customer_464,63,Female,Wales,Current,19.3,24319.41,17,20212.14,1188.95,6430.37,6.65,Defaulted,,
+1476,Customer_475,70,Female,Scotland,Current,8.0,41165.63,22,25976.98,1180.77,8878.31,3.68,Active,,
+1048,Customer_47,64,Male,North,Business,0.5,116.59,26,59811.14,2300.43,23199.26,3.95,Closed,,
+1462,Customer_461,45,Male,London,Current,7.0,37012.54,23,17447.98,758.61,22895.37,3.31,Defaulted,,
+1069,Customer_68,26,Male,Wales,Savings,9.1,11521.84,22,38229.35,1737.70,17460.93,2.1,Defaulted,,
+1348,Customer_347,45,Female,Wales,Current,5.3,42254.99,15,28992.72,1932.85,29449.42,7.66,Defaulted,,
+1478,Customer_477,52,Male,Midlands,Current,19.5,19013.45,16,36272.28,2267.02,15587.58,5.72,Defaulted,,
+1250,Customer_249,25,Male,Scotland,Current,17.4,37837.61,13,5224.21,401.86,1392.81,5.07,Closed,,
+1162,Customer_161,72,Female,South West,Business,13.2,620.34,23,17600.01,765.22,28522.98,1.64,Defaulted,,
+1229,Customer_228,47,Female,North,Current,8.2,37111.43,18,26141.32,1452.30,5226.06,5.11,Defaulted,,
+1273,Customer_272,29,Male,Midlands,Savings,10.7,35176.88,33,66459.93,2013.94,20326.24,4.53,Defaulted,,
+1496,Customer_495,63,Male,Wales,Business,7.3,35981.96,23,15960.34,693.93,23740.88,6.23,Closed,,
+1403,Customer_402,42,Male,Wales,Savings,5.5,5685.6,21,21190.64,1009.08,26717.18,5.05,Closed,,
+1116,Customer_115,33,Male,South West,Savings,15.1,32968.74,25,45412.58,1816.50,27553.08,4.72,Defaulted,,
+1146,Customer_145,52,Female,Wales,Savings,18.7,48540.42,29,22817.98,786.83,24486.97,4.83,Active,,
+1487,Customer_486,20,Female,North,Current,17.4,32618.23,21,41125.06,1958.34,6777.43,3.01,Defaulted,,
+1399,Customer_398,65,Male,Wales,Savings,7.5,23062.1,17,29362.14,1727.18,12883.97,7.37,Active,,
+1108,Customer_107,25,Male,Scotland,Business,8.2,32620.36,22,26134.40,1187.93,17894.27,5.85,Active,,
+1299,Customer_298,43,Male,Scotland,Savings,12.2,31913.91,20,24715.34,1235.77,7691.56,7.24,Defaulted,,
+1009,Customer_8,56,Male,South West,Current,5.5,19919.22,18,23746.49,1319.25,13974.17,1.61,Active,,
+1295,Customer_294,79,Male,Midlands,Business,15.5,38352.77,17,20518.53,1206.97,12245.93,4.5,Active,,
+1073,Customer_72,37,Female,London,Business,15.0,32820.61,28,25638.66,915.67,17274.83,5.01,Closed,,
+1100,Customer_99,51,Female,London,Savings,13.2,13365.97,21,23490.62,1118.60,9978.15,6.13,Active,,
+1388,Customer_387,41,Female,South West,Savings,16.4,39605.83,20,32920.28,1646.01,22938.79,3.56,Defaulted,,
+1335,Customer_334,36,Male,Scotland,Savings,11.9,20001.92,18,41987.59,2332.64,1072.06,7.97,Closed,,
+1178,Customer_177,20,Male,Midlands,Current,8.4,2282.41,14,25562.49,1825.89,7015.3,2.82,Active,,
+1408,Customer_407,19,Male,North,Savings,16.3,17054.9,19,18996.87,999.84,24714.49,7.13,Active,,
+1065,Customer_64,77,Female,Scotland,Business,18.2,8970.54,21,42015.54,2000.74,10068.87,6.89,Defaulted,,
+1047,Customer_46,79,Male,London,Business,5.4,42587.29,25,12186.36,487.45,6420.03,3.51,Defaulted,,
+1210,Customer_209,30,Male,Midlands,Business,12.8,34296.37,26,48240.84,1855.42,18457.48,6.37,Closed,,
+1293,Customer_292,18,Female,London,Business,16.7,3220.86,19,29334.71,1543.93,3174.91,3.89,Closed,,
+1031,Customer_30,50,Male,Wales,Savings,15.5,41483.69,18,43370.21,2409.46,13064.28,3.29,Closed,,
+1320,Customer_319,50,Female,Wales,Savings,6.7,18908.02,22,40935.41,1860.70,13628.96,6.4,Closed,,
+1033,Customer_32,75,Male,South West,Savings,9.7,47644.6,9,883.03,98.11,28497.23,2.88,Active,,
+1125,Customer_124,77,Male,Scotland,Savings,18.9,24823.06,21,25243.82,1202.09,22623.1,1.92,Active,,
+1019,Customer_18,41,Male,North,Business,6.0,1242.4,21,40881.12,1946.72,12030.15,3.95,Closed,,
+1021,Customer_20,39,Male,Wales,Business,8.9,11258.36,19,40144.85,2112.89,19144.34,7.77,Defaulted,,
+1188,Customer_187,32,Female,Wales,Current,14.8,33831.52,32,27746.98,867.09,25511.4,2.65,Closed,,
+1003,Customer_2,46,Female,South West,Savings,16.5,8172.03,16,26884.09,1680.26,25700.16,7.03,Closed,,
+1104,Customer_103,31,Female,Midlands,Business,19.7,7546.97,26,57625.36,2216.36,13172.51,7.79,Defaulted,,
+1079,Customer_78,78,Male,North,Savings,11.1,17776.39,25,53201.48,2128.06,17369.09,2.53,Closed,,
+1085,Customer_84,53,Male,Midlands,Savings,10.8,12504.15,19,37150.08,1955.27,24524.07,3.45,Closed,,
+1243,Customer_242,74,Male,South West,Current,7.9,42417.58,11,8246.24,749.66,22919.28,4.26,Defaulted,,
+1375,Customer_374,72,Female,South West,Business,19.5,47357.1,25,47943.68,1917.75,14454.84,6.53,Defaulted,,
+1129,Customer_128,46,Male,North,Business,2.1,44480.61,19,31221.04,1643.21,14478.21,4.26,Defaulted,,
+1489,Customer_488,42,Male,Scotland,Current,10.4,12790.67,20,44164.03,2208.20,11533.83,2.44,Active,,
+1308,Customer_307,76,Female,London,Current,17.4,28320.94,21,22968.70,1093.75,25360.09,7.88,Closed,,
+1469,Customer_468,77,Female,Midlands,Savings,8.5,49854.2,16,23741.10,1483.82,2269.58,3.49,Defaulted,,
+1117,Customer_116,62,Female,North,Current,3.3,47147.27,18,22799.15,1266.62,21588.8,5.28,Active,,
+1337,Customer_336,49,Female,North,Business,13.0,23655.82,33,46520.03,1409.70,7709.75,6.18,Active,,
+1207,Customer_206,60,Male,Scotland,Current,15.6,27023.86,20,32362.09,1618.10,1794.25,7.58,Closed,,
+1389,Customer_388,69,Male,Midlands,Current,7.8,27487.05,18,23850.37,1325.02,23096.51,3.73,Closed,,
+1437,Customer_436,55,Female,Scotland,Savings,18.2,37898.35,14,7711.10,550.79,19264.92,6.09,Defaulted,,
+1479,Customer_478,77,Female,North,Savings,0.9,48675.52,20,37332.25,1866.61,28101.05,5.88,Closed,,
+1251,Customer_250,44,Male,South West,Business,11.4,42114.32,21,26026.39,1239.35,21624.7,2.96,Active,,
+1225,Customer_224,45,Male,Scotland,Current,17.2,21746.65,22,33681.42,1530.97,26101.46,7.85,Closed,,
+1275,Customer_274,56,Male,Scotland,Current,10.9,24381.22,22,45856.13,2084.37,25892.02,4.8,Defaulted,,
+1200,Customer_199,21,Male,South West,Business,19.8,37434.78,19,23852.92,1255.42,13877.55,3.89,Defaulted,,
+1280,Customer_279,66,Female,London,Savings,14.8,31860.88,20,27944.33,1397.22,28631.44,2.05,Closed,,
+1109,Customer_108,31,Male,Scotland,Business,19.5,40553.23,29,17977.53,619.91,27073.2,6.77,Defaulted,,
+1298,Customer_297,61,Male,Midlands,Business,18.4,8756.66,19,43864.97,2308.68,25090.68,6.1,Defaulted,,
+1081,Customer_80,64,Female,South West,Business,4.5,24133.58,11,6807.99,618.91,16831.16,4.22,Closed,,
+1175,Customer_174,54,Male,Midlands,Current,11.1,26086.33,23,25264.19,1098.44,24253.44,3.55,Closed,,
+1014,Customer_13,28,Female,Wales,Current,2.8,36098.96,16,19346.39,1209.15,3699.13,5.05,Closed,,
+1026,Customer_25,47,Female,London,Current,15.9,24019.79,26,34808.87,1338.80,21006.3,2.47,Active,,
+1498,Customer_497,67,Male,London,Savings,10.4,45277.46,20,12614.23,630.71,15047.85,6.6,Defaulted,,
+1153,Customer_152,58,Female,South West,Savings,11.3,3528.77,18,18592.77,1032.93,28179.31,2.26,Closed,,
+1264,Customer_263,49,Male,London,Savings,13.9,8427.57,17,24719.55,1454.09,28790.32,2.98,Defaulted,,
+1263,Customer_262,49,Female,South West,Current,11.9,1550.66,8,11677.40,1459.68,26042.27,4.9,Defaulted,,
+1373,Customer_372,49,Female,London,Current,14.5,16979.33,15,33094.43,2206.30,23357.64,7.28,Active,,
+1451,Customer_450,50,Male,South West,Current,5.8,25401.85,25,29605.07,1184.20,3232.27,3.94,Defaulted,,
+1394,Customer_393,55,Female,London,Savings,10.5,7133.89,19,32958.20,1734.64,15778.11,6.32,Active,,
+1281,Customer_280,73,Male,Scotland,Business,3.7,7535.09,21,33964.42,1617.35,4153.38,7.71,Active,,
+1150,Customer_149,59,Female,South West,Savings,12.4,20665.33,20,33891.62,1694.58,5484.06,4.39,Defaulted,,
+1164,Customer_163,79,Female,Wales,Savings,12.5,13109.59,24,28302.86,1179.29,12566.23,5.46,Defaulted,,
+1063,Customer_62,21,Female,North,Business,1.1,39156.53,21,30580.07,1456.19,15365.04,7.2,Active,,
+1345,Customer_344,57,Male,South West,Current,2.6,48744.25,17,12871.39,757.14,7967.56,4.7,Defaulted,,
+1139,Customer_138,25,Female,Scotland,Savings,19.1,40126.31,26,38191.52,1468.90,3024.76,1.63,Active,,
+1023,Customer_22,19,Male,Midlands,Savings,8.1,28694.77,17,18233.47,1072.56,28934.96,1.63,Closed,,
+1140,Customer_139,41,Male,Midlands,Business,2.9,5357.84,18,32744.11,1819.12,5196.11,2.75,Closed,,
+1194,Customer_193,49,Female,London,Current,1.1,43975.51,20,24850.64,1242.53,10637.13,3.98,Closed,,
+1428,Customer_427,65,Male,Wales,Business,13.7,18659.44,26,37214.21,1431.32,6916.4,6.25,Defaulted,,
+1458,Customer_457,52,Female,South West,Current,7.9,39949.8,14,13576.23,969.73,23406.19,7.34,Closed,,
+1219,Customer_218,62,Male,Scotland,Savings,11.8,30635.83,18,29569.38,1642.74,26886.8,1.93,Active,,
+1246,Customer_245,58,Female,London,Current,10.9,650.48,32,27150.45,848.45,9713.27,3.09,Closed,,
+1386,Customer_385,73,Male,South West,Savings,8.8,20258.5,20,21845.67,1092.28,3198.55,2.93,Active,,
+1285,Customer_284,19,Female,South West,Business,5.1,10571.12,17,18182.80,1069.58,8496.47,6.45,Defaulted,,
+1201,Customer_200,47,Female,Midlands,Savings,6.0,27934.88,25,50188.42,2007.54,2875.36,6.6,Defaulted,,
+1407,Customer_406,35,Female,Midlands,Business,13.6,24913.07,22,38567.41,1753.06,6563.13,7.09,Defaulted,,
+1463,Customer_462,47,Female,South West,Current,11.8,16051.37,20,19645.98,982.30,311.98,5.77,Closed,,
+1414,Customer_413,53,Male,North,Current,17.5,6400.06,20,32650.53,1632.53,20720.4,4.6,Defaulted,,
+1045,Customer_44,32,Female,London,Current,7.8,43817.65,22,22314.27,1014.29,23027.06,4.72,Active,,
+1215,Customer_214,39,Female,Scotland,Savings,9.0,17184.94,23,17629.27,766.49,19388.18,6.34,Closed,,
+1223,Customer_222,23,Male,Wales,Current,6.6,28900.92,17,30368.06,1786.36,27126.61,6.49,Closed,,
+1500,Customer_499,64,Male,North,Business,6.0,9643.89,17,13992.98,823.12,20488.51,6.0,Active,,
+1429,Customer_428,29,Male,South West,Savings,9.1,22639.67,20,25224.53,1261.23,18007.04,2.16,Closed,,
+1232,Customer_231,75,Female,Wales,Current,17.7,9778.3,19,32593.26,1715.43,8638.48,1.89,Closed,,
+1180,Customer_179,22,Female,Midlands,Savings,8.7,29966.73,18,12380.53,687.81,13947.74,2.31,Active,,
+1306,Customer_305,28,Female,London,Savings,12.3,47520.61,16,20302.76,1268.92,7443.24,3.06,Closed,,
+1141,Customer_140,28,Male,Wales,Savings,18.0,1874.99,30,62411.13,2080.37,10468.57,5.3,Closed,,
+1276,Customer_275,19,Male,North,Business,3.0,30008.51,24,35216.46,1467.35,18275.51,7.44,Closed,,
+1453,Customer_452,77,Female,London,Business,13.8,1765.84,19,22755.64,1197.67,5947.14,7.8,Defaulted,,
+1082,Customer_81,52,Female,Scotland,Current,2.3,8926.67,23,33080.70,1438.29,1914.41,2.17,Closed,,
+1118,Customer_117,35,Female,North,Business,2.5,40463.28,27,27037.55,1001.39,1442.19,6.87,Closed,,
+1258,Customer_257,61,Male,South West,Current,13.0,10938.73,20,43330.00,2166.50,8194.2,3.5,Defaulted,,
+1123,Customer_122,42,Female,South West,Savings,7.2,39080.4,21,51050.31,2430.97,3486.12,6.64,Defaulted,,
+1152,Customer_151,75,Female,London,Current,13.4,41543.67,20,7955.69,397.78,1348.69,5.63,Closed,,
+1226,Customer_225,61,Male,Midlands,Current,0.7,8126.32,23,26600.65,1156.55,1181.3,7.48,Closed,,
+1372,Customer_371,54,Male,Wales,Business,2.2,9640.42,21,24156.54,1150.31,19765.29,1.5,Active,,
+1427,Customer_426,50,Female,Midlands,Business,12.1,39937.37,21,34071.30,1622.44,6405.58,2.86,Active,,
+1359,Customer_358,33,Male,London,Current,19.1,11915.54,24,32671.33,1361.31,13770.5,3.26,Defaulted,,
+1450,Customer_449,64,Male,London,Current,13.0,8525.82,24,32772.75,1365.53,1807.72,6.69,Closed,,
+1296,Customer_295,19,Male,Midlands,Business,2.7,36707.43,20,17444.88,872.24,29411.74,5.03,Active,,
+1131,Customer_130,62,Male,Midlands,Savings,7.5,44134.73,11,12874.17,1170.38,1321.45,7.42,Active,,
+1056,Customer_55,54,Female,Scotland,Business,6.3,24281.62,26,39681.05,1526.19,10166.8,1.63,Active,,
+1156,Customer_155,26,Female,North,Savings,9.9,25781.41,28,35487.26,1267.40,8178.41,7.34,Defaulted,,
+1274,Customer_273,79,Male,South West,Business,7.2,2734.92,13,25251.59,1942.43,16885.8,5.2,Defaulted,,
+1049,Customer_48,79,Female,Wales,Business,3.6,982.62,24,45452.64,1893.86,9610.54,5.48,Closed,,
+1137,Customer_136,18,Female,Wales,Current,1.3,37335.74,22,32286.72,1467.58,5870.68,5.56,Defaulted,,
+1321,Customer_320,26,Male,North,Current,17.4,23140.47,26,25551.13,982.74,24899.98,6.14,Active,,
+1011,Customer_10,36,Male,Midlands,Savings,2.1,31434.71,20,37862.10,1893.11,14013.9,2.56,Active,,
+1184,Customer_183,56,Male,North,Savings,19.2,19493.77,18,16933.41,940.75,4641.21,6.92,Closed,,
+1357,Customer_356,24,Male,London,Current,18.0,38615.7,25,18041.04,721.64,2391.0,6.77,Defaulted,,
+1435,Customer_434,63,Female,Scotland,Savings,12.3,4792.4,22,23718.44,1078.11,1584.17,5.09,Defaulted,,
+1486,Customer_485,50,Male,London,Business,15.9,45074.67,16,37218.36,2326.15,22530.37,6.78,Active,,
+1203,Customer_202,40,Male,Scotland,Business,8.0,2787.52,19,25685.22,1351.85,5248.01,7.74,Defaulted,,
+1211,Customer_210,49,Male,North,Business,7.8,4684.36,22,37699.85,1713.63,10883.58,3.68,Active,,
+1460,Customer_459,34,Female,South West,Savings,19.9,42858.01,16,23335.95,1458.50,8551.74,3.18,Defaulted,,
+1484,Customer_483,49,Male,Midlands,Current,2.3,38003.16,14,7146.03,510.43,15065.91,1.87,Closed,,
+1491,Customer_490,48,Female,North,Business,1.7,44003.11,12,14656.25,1221.35,16361.02,6.54,Active,,
+1136,Customer_135,41,Male,Wales,Business,16.5,1997.29,13,26076.03,2005.85,4392.36,5.79,Active,,
+1029,Customer_28,77,Male,Scotland,Savings,19.0,7045.98,23,34235.12,1488.48,20607.66,5.56,Closed,,
+1378,Customer_377,52,Male,Wales,Current,2.9,1199.55,25,37547.39,1501.90,3197.72,2.85,Closed,,
+1405,Customer_404,35,Male,Scotland,Current,14.8,48905.28,25,51499.34,2059.97,10709.21,2.12,Defaulted,,
+1051,Customer_50,61,Male,Scotland,Savings,18.9,18303.43,18,29424.27,1634.68,18949.21,6.51,Active,,
+1089,Customer_88,19,Male,North,Business,18.3,29149.2,21,30206.32,1438.40,19000.94,5.34,Closed,,
+1370,Customer_369,29,Male,Midlands,Business,10.9,7333.76,11,16856.80,1532.44,20620.13,4.13,Closed,,
+1457,Customer_456,21,Female,Midlands,Business,1.5,15726.78,13,19336.68,1487.44,6554.51,1.51,Active,,
+1475,Customer_474,63,Male,North,Business,9.8,1565.27,13,21974.21,1690.32,13183.97,4.66,Active,,
+1477,Customer_476,48,Female,London,Current,2.8,10566.67,18,26712.82,1484.05,10453.48,2.77,Active,,
+1022,Customer_21,70,Female,London,Business,16.9,47870.41,23,63178.69,2746.90,13778.77,6.52,Defaulted,,
+1135,Customer_134,26,Male,North,Current,14.0,2486.76,15,42619.32,2841.29,16651.11,7.88,Defaulted,,
+1122,Customer_121,43,Male,North,Savings,4.6,12727.62,20,37035.87,1851.79,5617.51,7.44,Active,,
+1382,Customer_381,20,Male,Wales,Business,6.3,34219.33,23,24436.16,1062.44,5369.29,3.05,Closed,,
+1381,Customer_380,33,Female,London,Savings,4.1,4533.13,25,47014.64,1880.59,21398.57,2.57,Active,,
+1452,Customer_451,22,Male,North,Business,12.1,29945.82,16,27692.65,1730.79,23545.13,4.47,Active,,
+1448,Customer_447,50,Male,Wales,Current,13.6,18218.73,17,18701.34,1100.08,23866.93,4.49,Defaulted,,
+1006,Customer_5,25,Female,Wales,Business,0.5,28372.11,19,29796.31,1568.23,18231.25,5.14,Active,,
+1328,Customer_327,37,Female,South West,Savings,11.5,45205.28,21,67333.40,3206.35,29964.49,1.58,Active,,
+1202,Customer_201,54,Male,South West,Savings,7.5,9111.67,17,22688.16,1334.60,23906.79,1.97,Closed,,
+1220,Customer_219,79,Female,North,Current,13.4,5385.94,22,43629.00,1983.14,23195.37,5.69,Closed,,
+1343,Customer_342,56,Female,South West,Current,18.3,13853.06,29,48098.75,1658.58,19799.13,2.71,Closed,,
+1091,Customer_90,23,Female,Midlands,Business,4.1,9565.77,16,23723.02,1482.69,3534.69,6.45,Defaulted,,
+1018,Customer_17,57,Female,North,Savings,3.0,16194.15,21,42685.60,2032.65,583.68,4.37,Active,,
+1235,Customer_234,42,Female,Wales,Business,9.3,15615.35,19,20985.27,1104.49,15575.03,4.93,Closed,,
+1265,Customer_264,41,Male,Midlands,Current,8.2,9147.83,17,13875.38,816.20,28298.02,5.56,Closed,,
+1361,Customer_360,65,Male,Midlands,Savings,7.9,27461.2,15,30217.16,2014.48,13662.02,6.22,Active,,
+1052,Customer_51,72,Female,South West,Business,2.5,19384.4,18,19107.71,1061.54,2713.61,5.24,Defaulted,,
+1330,Customer_329,76,Female,Wales,Savings,11.2,39032.63,20,34330.01,1716.50,7433.12,5.42,Closed,,
+1157,Customer_156,25,Female,London,Current,1.3,44955.15,15,14194.69,946.31,27226.98,7.23,Defaulted,,
+1106,Customer_105,65,Female,Midlands,Business,9.6,43246.55,29,43687.21,1506.46,3752.21,4.63,Defaulted,,
+1230,Customer_229,79,Male,Wales,Business,5.1,44084.39,18,25616.08,1423.12,19853.61,4.38,Defaulted,,
+1430,Customer_429,76,Female,Midlands,Current,9.2,19929.33,15,22266.94,1484.46,17298.98,7.31,Closed,,
+1402,Customer_401,52,Male,Wales,Current,11.4,39369.81,24,44891.48,1870.48,4947.2,7.78,Active,,
+1332,Customer_331,36,Male,London,Business,11.1,2958.28,20,12649.09,632.45,24056.4,7.38,Active,,
+1443,Customer_442,44,Male,Scotland,Current,7.7,26057.51,21,44558.37,2121.83,3218.73,4.92,Closed,,
+1138,Customer_137,61,Female,Midlands,Savings,13.6,32985.87,21,26969.51,1284.26,11792.34,3.58,Defaulted,,
+1341,Customer_340,50,Female,North,Savings,19.1,1910.75,21,39268.71,1869.94,21320.02,2.9,Defaulted,,
+1270,Customer_269,66,Female,Scotland,Current,19.5,36197.9,20,23307.51,1165.38,19177.88,2.21,Closed,,
+1415,Customer_414,50,Female,North,Current,9.7,33015.51,20,36891.13,1844.56,18583.74,5.92,Active,,
+1301,Customer_300,23,Female,Wales,Current,16.6,8994.8,14,7719.67,551.41,952.0,2.67,Active,,
+1368,Customer_367,65,Male,North,Current,13.6,24774.61,21,22165.69,1055.51,15663.88,2.26,Active,,
+1418,Customer_417,31,Female,North,Current,6.6,47337.23,13,17112.87,1316.37,17693.79,1.65,Defaulted,,
+1344,Customer_343,35,Male,Midlands,Savings,16.4,39377.62,20,27677.41,1383.87,213.23,5.8,Defaulted,,
+1342,Customer_341,57,Female,North,Current,17.0,13858.42,15,26508.05,1767.20,28105.37,5.83,Defaulted,,
+1128,Customer_127,58,Male,North,Savings,17.7,11425.54,24,28114.65,1171.44,11918.12,5.82,Defaulted,,
+1005,Customer_4,60,Male,North,Current,18.2,28771.91,13,13950.45,1073.11,4637.73,4.57,Closed,,
+1002,Customer_1,69,Male,Midlands,Savings,0.6,43679.5,19,25690.30,1352.12,11636.17,1.97,Closed,,
+1099,Customer_98,61,Female,North,Savings,3.6,18633.29,24,43809.22,1825.38,12034.8,6.79,Defaulted,,
+1271,Customer_270,75,Male,Wales,Savings,11.8,5296.45,36,64439.60,1789.99,14643.17,1.76,Defaulted,,
+1040,Customer_39,76,Male,Midlands,Savings,13.1,4090.27,13,14972.20,1151.71,8737.46,1.51,Defaulted,,
+1426,Customer_425,34,Female,Scotland,Current,5.9,19597.35,27,56827.82,2104.73,2541.42,6.59,Closed,,
+1133,Customer_132,42,Female,Midlands,Savings,19.6,49414.94,15,34698.00,2313.20,20373.08,2.96,Active,,
+1422,Customer_421,73,Male,South West,Business,5.5,27670.43,24,29955.48,1248.15,19927.49,4.03,Closed,,
+1480,Customer_479,50,Male,South West,Business,14.9,16908.34,32,46222.72,1444.46,22054.76,6.89,Defaulted,,
+1310,Customer_309,55,Male,South West,Savings,15.2,8348.18,27,43564.72,1613.51,24829.96,7.37,Active,,
+1338,Customer_337,24,Male,Wales,Business,15.3,768.79,25,41611.28,1664.45,9199.25,6.21,Defaulted,,
+1470,Customer_469,58,Female,Scotland,Current,8.7,48991.14,15,24709.35,1647.29,17960.11,1.73,Closed,,
+1151,Customer_150,56,Female,Midlands,Savings,9.9,27525.84,19,26806.22,1410.85,3732.28,6.05,Closed,,
+1190,Customer_189,59,Female,Midlands,Current,10.3,734.47,23,40308.02,1752.52,9270.71,3.09,Defaulted,,
+1339,Customer_338,69,Female,Wales,Savings,10.3,14209.01,18,34977.84,1943.21,14012.88,5.94,Active,,
+1096,Customer_95,46,Female,Scotland,Current,5.3,10022.93,19,51927.31,2733.02,9648.32,6.59,Defaulted,,
+1198,Customer_197,78,Female,London,Business,16.0,11131.06,19,35228.28,1854.12,18553.45,4.86,Closed,,
+1115,Customer_114,38,Male,Wales,Current,14.6,5197.26,15,28387.06,1892.47,27731.2,6.77,Closed,,
+1327,Customer_326,20,Male,London,Business,12.4,2587.12,26,35017.92,1346.84,10745.05,5.59,Defaulted,,
+1240,Customer_239,74,Female,Scotland,Savings,19.0,18825.47,17,24761.83,1456.58,7375.92,6.45,Closed,,
+1262,Customer_261,71,Female,North,Savings,2.5,9000.79,18,24915.54,1384.20,10382.32,6.8,Active,,
+1067,Customer_66,67,Female,South West,Business,19.3,30940.78,16,2479.55,154.97,4892.94,3.14,Closed,,
+1367,Customer_366,18,Female,South West,Current,10.7,31258.83,19,18059.97,950.52,10663.28,5.24,Active,,
+1020,Customer_19,20,Female,London,Business,0.9,7774.18,18,28105.55,1561.42,7721.94,3.66,Closed,,
+1446,Customer_445,38,Female,South West,Savings,9.1,8385.11,22,38869.51,1766.80,17461.31,5.77,Active,,
+1313,Customer_312,69,Male,London,Business,2.6,29365.31,36,36547.41,1015.21,5014.15,4.76,Closed,,
+1483,Customer_482,38,Male,North,Business,13.6,5626.35,17,19352.28,1138.37,4480.6,5.97,Active,,
+1216,Customer_215,45,Male,South West,Business,2.4,20729.48,26,35368.86,1360.34,24387.12,3.27,Active,,
+1176,Customer_175,64,Female,Scotland,Business,10.1,30863.34,21,35857.89,1707.52,23818.81,2.85,Closed,,
+1072,Customer_71,19,Female,North,Current,14.6,8770.25,21,28120.22,1339.06,29481.45,7.95,Active,,
+1413,Customer_412,58,Female,Midlands,Business,5.1,995.49,25,38767.46,1550.70,16620.3,4.18,Defaulted,,
+1008,Customer_7,38,Female,London,Current,15.3,25107.53,25,26921.54,1076.86,2717.05,5.9,Defaulted,,
+1362,Customer_361,74,Female,South West,Savings,4.3,6486.61,21,37258.19,1774.20,26710.73,2.14,Active,,
+1032,Customer_31,29,Female,Wales,Current,14.3,15944.82,15,26624.18,1774.95,26868.81,4.4,Closed,,
+1406,Customer_405,63,Female,Wales,Savings,17.1,39720.09,10,28604.10,2860.41,8764.32,5.03,Active,,
+1353,Customer_352,48,Female,North,Business,14.5,31023.0,16,30710.84,1919.43,7559.75,7.73,Defaulted,,
+1004,Customer_3,32,Male,Midlands,Current,5.0,39335.17,17,16770.77,986.52,22167.18,6.89,Defaulted,,
+1392,Customer_391,25,Female,North,Current,0.6,42361.24,18,22880.77,1271.15,12613.08,3.72,Closed,,
+1440,Customer_439,68,Male,Wales,Business,13.1,32169.47,17,55132.56,3243.09,21590.49,7.95,Defaulted,,
+1248,Customer_247,56,Male,North,Current,14.3,37957.95,15,32459.10,2163.94,21233.67,2.12,Defaulted,,
+1165,Customer_164,41,Female,London,Savings,6.9,3555.79,19,28790.32,1515.28,21577.21,5.7,Active,,
+1169,Customer_168,57,Female,London,Business,9.0,16178.55,23,36155.35,1571.97,15704.95,2.12,Defaulted,,
+1325,Customer_324,33,Female,North,Savings,6.9,35330.35,27,44561.52,1650.43,23645.37,7.57,Defaulted,,
+1323,Customer_322,76,Male,Midlands,Savings,6.3,21815.5,25,51021.89,2040.88,6609.33,2.66,Active,,
+1291,Customer_290,49,Male,North,Current,0.8,11869.29,19,36540.52,1923.19,7207.16,2.61,Defaulted,,
+1441,Customer_440,71,Female,Midlands,Business,12.1,9872.46,19,31007.99,1632.00,26622.84,5.34,Active,,
+1132,Customer_131,18,Male,Wales,Current,6.8,5374.1,20,39606.59,1980.33,5673.76,3.29,Active,,
+1163,Customer_162,40,Male,North,Current,9.8,12845.13,20,16217.17,810.86,9738.51,5.87,Active,,
+1098,Customer_97,43,Male,Midlands,Current,4.9,2227.4,19,19805.90,1042.42,7815.7,1.58,Defaulted,,
+1238,Customer_237,50,Male,South West,Business,9.3,30787.41,16,34811.45,2175.72,3014.0,4.06,Defaulted,,
+1197,Customer_196,69,Female,Midlands,Current,12.2,31839.93,19,16078.26,846.22,6372.55,7.9,Closed,,
+1461,Customer_460,61,Female,London,Savings,9.2,5970.44,24,26350.08,1097.92,18710.01,6.83,Closed,,
+1472,Customer_471,41,Female,Wales,Savings,0.5,6578.34,19,27103.34,1426.49,24492.18,4.07,Closed,,
+1013,Customer_12,28,Male,North,Current,11.4,26670.81,27,31735.32,1175.38,4747.79,4.36,Defaulted,,
+1309,Customer_308,34,Male,North,Business,19.9,48984.37,17,30950.00,1820.59,14782.87,3.4,Active,,
+1254,Customer_253,54,Male,Scotland,Savings,19.7,6323.23,13,19109.08,1469.93,15214.82,4.74,Closed,,
+1234,Customer_233,45,Female,London,Business,7.0,32912.26,16,20758.93,1297.43,17085.53,2.83,Closed,,
+1221,Customer_220,74,Female,Midlands,Savings,2.4,7663.31,19,41193.47,2168.08,27295.62,7.02,Defaulted,,
+1347,Customer_346,28,Male,London,Business,10.8,21501.46,17,30325.46,1783.85,19303.37,3.45,Closed,,
+1459,Customer_458,66,Female,Scotland,Savings,7.6,48391.02,19,33930.03,1785.79,1439.39,3.36,Defaulted,,
+1287,Customer_286,45,Female,South West,Business,5.5,26062.8,24,29711.13,1237.96,7009.68,4.03,Closed,,
+1025,Customer_24,61,Male,North,Current,15.2,28800.65,26,46062.13,1771.62,17635.69,6.54,Closed,,
+1467,Customer_466,23,Female,Wales,Savings,15.2,36286.76,18,26947.53,1497.09,20129.47,2.08,Closed,,
+1319,Customer_318,33,Male,South West,Current,17.6,11354.51,14,26108.83,1864.92,12448.61,4.39,Defaulted,,
+1217,Customer_216,19,Male,Midlands,Current,8.4,37933.43,16,37177.21,2323.58,15645.84,7.6,Defaulted,,
+1354,Customer_353,47,Male,Wales,Current,10.7,28143.44,24,42781.16,1782.55,13303.97,2.19,Active,,
+1158,Customer_157,29,Female,Midlands,Current,3.7,39146.0,18,21334.87,1185.27,27117.87,2.48,Active,,
+1237,Customer_236,79,Male,Wales,Current,3.3,40774.41,30,26658.45,888.62,2960.16,3.1,Defaulted,,
+1041,Customer_40,59,Male,North,Savings,12.1,38858.51,17,39236.20,2308.01,28541.59,2.0,Active,,
+1126,Customer_125,77,Male,London,Business,1.9,19378.81,20,19567.24,978.36,7075.29,5.64,Closed,,
+1095,Customer_94,71,Male,London,Business,12.3,31502.01,13,2041.84,157.06,14016.93,4.97,Closed,,
+1278,Customer_277,66,Male,London,Current,3.3,1244.35,28,20420.84,729.32,13222.55,7.89,Closed,,
+1380,Customer_379,65,Female,London,Business,16.1,20957.7,22,34464.91,1566.59,6366.04,4.99,Active,,
+1290,Customer_289,54,Male,Wales,Business,7.8,36801.73,20,32866.90,1643.35,15156.74,4.7,Closed,,
+1445,Customer_444,51,Male,London,Current,12.5,27935.23,17,35347.70,2079.28,24668.28,6.39,Active,,
+1155,Customer_154,24,Female,Wales,Savings,15.8,4222.62,20,26516.79,1325.84,27528.54,5.08,Closed,,
+1442,Customer_441,25,Male,London,Current,8.3,44858.2,27,51818.41,1919.20,6520.47,6.12,Closed,,
+1241,Customer_240,44,Male,South West,Savings,5.4,26980.91,19,42017.51,2211.45,22266.67,5.22,Active,,
+1147,Customer_146,50,Male,London,Business,19.0,47121.54,23,36610.66,1591.77,22979.75,5.43,Active,,
+1204,Customer_203,56,Male,London,Business,9.6,16070.99,27,40097.74,1485.10,3436.86,4.22,Active,,
+1214,Customer_213,68,Male,Midlands,Current,1.8,7618.74,34,53978.47,1587.60,26626.66,4.9,Closed,,
+1397,Customer_396,79,Female,Wales,Current,13.1,4968.37,20,29880.07,1494.00,6414.55,4.81,Closed,,
+1035,Customer_34,78,Female,Wales,Business,2.0,33348.71,21,35982.63,1713.46,11230.56,4.86,Closed,,
+1398,Customer_397,52,Female,Scotland,Savings,3.9,43113.15,19,33143.50,1744.39,23684.92,3.14,Defaulted,,
+1494,Customer_493,20,Female,Scotland,Business,7.2,5735.87,17,12092.54,711.33,3962.61,2.49,Active,,
+1205,Customer_204,62,Male,London,Savings,16.8,37684.05,19,27601.01,1452.68,18692.14,3.54,Active,,
+1493,Customer_492,75,Male,London,Savings,4.9,12292.56,19,19158.02,1008.32,9709.13,4.42,Closed,,
+1227,Customer_226,61,Male,Midlands,Current,12.0,27946.31,16,30611.68,1913.23,19735.57,2.56,Defaulted,,
+1038,Customer_37,66,Female,Wales,Savings,13.7,25354.77,20,16307.14,815.36,3082.38,7.65,Active,,
+1268,Customer_267,66,Male,North,Savings,0.8,43725.7,20,34231.00,1711.55,8670.24,2.21,Active,,
+1336,Customer_335,37,Male,South West,Business,3.8,46138.89,20,29583.42,1479.17,15789.97,2.52,Closed,,
+1039,Customer_38,44,Female,Midlands,Current,9.2,11704.31,29,55541.33,1915.22,19841.21,2.43,Defaulted,,
+1286,Customer_285,19,Male,Wales,Current,19.3,41274.02,21,42858.48,2040.88,8620.72,7.6,Active,,
+1255,Customer_254,50,Male,North,Business,2.9,19330.26,20,28314.07,1415.70,16206.27,6.68,Closed,,
+1166,Customer_165,54,Male,Midlands,Current,9.7,47995.34,26,57673.42,2218.21,9010.79,2.92,Active,,
+1391,Customer_390,66,Male,Wales,Business,2.7,11384.74,15,31882.89,2125.53,25234.66,5.24,Closed,,
+1196,Customer_195,66,Female,Scotland,Business,12.3,27246.43,21,10781.70,513.41,10026.19,5.44,Closed,,
+1113,Customer_112,79,Female,Wales,Savings,19.1,47815.49,20,27663.22,1383.16,7975.37,3.23,Defaulted,,
+1261,Customer_260,76,Female,South West,Savings,2.2,193.81,10,30508.38,3050.84,28718.57,2.8,Defaulted,,
+1356,Customer_355,52,Female,London,Savings,8.9,15827.96,22,28656.01,1302.55,9337.71,3.68,Active,,
+1012,Customer_11,40,Male,London,Business,6.9,33747.76,21,28983.22,1380.15,23312.13,6.41,Active,,
+1260,Customer_259,32,Male,South West,Current,4.0,33185.8,21,31311.05,1491.00,1993.11,5.41,Defaulted,,
+1144,Customer_143,25,Male,South West,Current,12.5,23151.15,20,51781.14,2589.06,2243.47,2.72,Defaulted,,
+1256,Customer_255,68,Female,Scotland,Business,5.0,32203.92,19,37658.82,1982.04,1553.02,5.82,Defaulted,,
+1365,Customer_364,66,Male,North,Current,3.7,41410.63,19,17261.81,908.52,15317.26,7.44,Defaulted,,
+1297,Customer_296,70,Female,Wales,Savings,16.0,15042.23,15,15708.23,1047.22,10426.16,2.42,Closed,,
+1058,Customer_57,24,Female,Midlands,Savings,15.6,31012.94,23,24673.72,1072.77,4366.87,4.41,Closed,,
+1061,Customer_60,56,Female,South West,Current,17.4,8616.17,19,11950.31,628.96,13946.11,7.55,Closed,,
+1410,Customer_409,52,Female,North,Current,3.4,27287.9,16,22054.63,1378.41,27722.7,4.06,Closed,,
+1485,Customer_484,40,Female,North,Current,5.5,49404.47,18,27478.72,1526.60,21861.26,2.21,Defaulted,,
+1393,Customer_392,53,Female,Midlands,Business,12.9,21488.66,24,22612.22,942.18,26026.49,5.9,Active,,
+1277,Customer_276,20,Male,Scotland,Savings,3.1,30147.07,17,31031.18,1825.36,17218.39,6.5,Active,,
+1053,Customer_52,69,Male,London,Savings,17.2,28265.61,21,23057.24,1097.96,29140.58,3.25,Closed,,
+1024,Customer_23,41,Female,London,Savings,4.0,46643.26,16,18308.62,1144.29,6569.35,7.72,Active,,
+1121,Customer_120,41,Female,London,Current,9.9,46522.91,14,12232.88,873.78,9313.03,4.64,Active,,
+1272,Customer_271,69,Female,South West,Business,5.5,11349.39,16,25902.53,1618.91,2962.4,3.76,Closed,,
+1179,Customer_178,18,Female,Wales,Current,4.8,5629.32,22,34491.73,1567.81,6806.89,6.04,Active,,
+1390,Customer_389,28,Male,Midlands,Business,10.8,30683.72,23,23192.09,1008.35,24524.65,2.36,Defaulted,,
+1077,Customer_76,24,Female,South West,Savings,11.5,20299.44,21,36609.42,1743.31,24498.65,6.29,Closed,,
+1259,Customer_258,41,Male,London,Business,4.9,6977.36,14,20967.98,1497.71,590.82,3.21,Closed,,
+1010,Customer_9,75,Female,London,Savings,4.3,27032.66,23,25975.58,1129.37,7820.05,2.3,Active,,
+1464,Customer_463,46,Female,North,Current,2.2,49421.96,23,30822.26,1340.10,9786.26,6.84,Active,,
+1016,Customer_15,70,Male,London,Current,0.7,10677.93,28,50018.15,1786.36,28568.26,3.72,Closed,,
+1086,Customer_85,67,Female,Midlands,Business,0.8,6776.81,16,12928.40,808.03,1291.03,4.31,Active,,
+1218,Customer_217,59,Female,London,Business,12.1,37196.85,21,29196.79,1390.32,21539.13,2.77,Active,,
+1187,Customer_186,32,Female,Scotland,Business,12.8,46423.04,29,34902.00,1203.52,25815.66,2.4,Closed,,
+1471,Customer_470,54,Female,London,Business,16.5,32841.09,24,26502.14,1104.26,19251.04,4.75,Closed,,
+1257,Customer_256,59,Female,South West,Current,1.5,39041.95,16,23377.38,1461.09,20055.69,6.24,Defaulted,,
+1444,Customer_443,44,Male,Midlands,Business,7.2,22435.39,21,37317.87,1777.04,18460.89,6.5,Defaulted,,
+1193,Customer_192,68,Female,North,Current,12.0,15914.43,18,50340.73,2796.71,14873.77,1.68,Active,,
+1305,Customer_304,72,Male,Wales,Current,3.6,37025.32,18,25227.90,1401.55,24559.41,5.53,Closed,,
+1431,Customer_430,68,Male,London,Current,14.6,4761.06,22,31101.22,1413.69,8682.53,2.47,Defaulted,,
+1206,Customer_205,32,Male,Wales,Savings,5.1,13539.63,24,31384.34,1307.68,11959.33,7.83,Closed,,
+1192,Customer_191,30,Female,North,Savings,10.5,33605.6,23,27592.22,1199.66,28240.21,5.24,Closed,,
+1334,Customer_333,20,Male,South West,Current,0.8,6654.34,24,43801.72,1825.07,18566.77,3.2,Active,,
+1036,Customer_35,61,Female,Wales,Savings,17.1,6175.92,10,21026.11,2102.61,24601.73,3.76,Defaulted,,
+1436,Customer_435,47,Male,Scotland,Current,7.1,17897.88,15,31559.03,2103.94,3995.41,1.89,Defaulted,,
+1360,Customer_359,43,Female,London,Savings,13.3,36649.19,15,9230.86,615.39,16694.47,4.16,Closed,,
+1127,Customer_126,62,Female,North,Current,10.9,22561.21,25,35414.43,1416.58,727.59,6.92,Closed,,
+1329,Customer_328,77,Male,Scotland,Savings,7.9,45478.57,15,25601.63,1706.78,11514.18,6.12,Closed,,
+1316,Customer_315,39,Male,Scotland,Current,18.6,39150.84,10,2319.97,232.00,29526.51,7.3,Closed,,
+1315,Customer_314,23,Male,South West,Current,15.4,46487.88,20,19607.08,980.35,26903.51,6.27,Closed,,
+1245,Customer_244,30,Male,South West,Business,7.5,41650.76,16,13502.41,843.90,14556.43,6.83,Defaulted,,
+1455,Customer_454,65,Female,Wales,Business,9.4,36658.5,23,37827.01,1644.65,27322.82,3.68,Closed,,
+1249,Customer_248,23,Male,Wales,Savings,9.2,33951.1,22,28647.80,1302.17,26077.75,1.65,Active,,
+1037,Customer_36,42,Female,Wales,Savings,19.8,23963.88,16,28337.29,1771.08,776.01,5.03,Active,,
+1395,Customer_394,57,Female,South West,Current,12.1,33242.98,16,8448.27,528.02,14117.91,5.3,Active,,
+1177,Customer_176,31,Female,South West,Savings,2.1,7916.26,22,27629.96,1255.91,14966.49,4.17,Closed,,
+1212,Customer_211,24,Female,London,Business,10.5,48259.97,15,25377.48,1691.83,5754.14,4.02,Defaulted,,
+1159,Customer_158,51,Female,London,Current,9.1,11469.34,13,27317.24,2101.33,27710.28,2.03,Active,,
+1027,Customer_26,55,Female,Wales,Current,3.9,15755.01,11,18842.63,1712.97,24766.93,2.0,Defaulted,,
+1326,Customer_325,46,Female,North,Business,12.8,31595.42,22,41009.01,1864.05,11179.55,3.72,Active,,
+1228,Customer_227,37,Female,North,Current,12.2,40606.44,16,17308.12,1081.76,25439.25,5.13,Defaulted,,
+1411,Customer_410,33,Male,Scotland,Savings,8.8,37945.41,20,22229.18,1111.46,20020.51,5.73,Closed,,
+1030,Customer_29,38,Female,London,Business,3.7,44923.26,21,46563.27,2217.30,9096.04,5.51,Defaulted,,
+1421,Customer_420,37,Female,South West,Savings,12.9,27943.24,18,14719.13,817.73,27895.99,6.92,Defaulted,,
+1456,Customer_455,36,Female,Wales,Savings,4.2,41036.84,18,18842.45,1046.80,26724.16,4.66,Defaulted,,
+1294,Customer_293,36,Male,South West,Savings,17.4,40088.21,20,36813.27,1840.66,27121.07,3.6,Active,,
+1482,Customer_481,78,Male,Midlands,Business,5.3,45918.58,20,45534.88,2276.74,4884.31,6.08,Defaulted,,
+1208,Customer_207,46,Female,London,Current,8.4,36424.56,27,27513.63,1019.02,10667.05,5.67,Defaulted,,
+1173,Customer_172,18,Female,South West,Current,13.2,24352.17,19,36199.86,1905.26,25167.96,4.09,Closed,,
+1160,Customer_159,50,Male,London,Savings,14.6,48801.94,11,1393.73,126.70,14884.6,3.41,Defaulted,,
+1324,Customer_323,23,Male,Scotland,Savings,13.2,46873.93,23,28984.19,1260.18,9441.85,4.56,Defaulted,,
+1497,Customer_496,41,Female,London,Current,5.2,21063.92,15,20880.23,1392.02,29056.76,3.85,Closed,,
+1088,Customer_87,21,Female,South West,Savings,6.2,39537.85,19,20913.64,1100.72,8253.23,1.71,Defaulted,,
+1199,Customer_198,49,Female,London,Business,13.3,48922.02,18,25407.32,1411.52,16877.91,4.27,Closed,,
+1424,Customer_423,24,Male,South West,Savings,1.6,17248.79,25,42734.15,1709.37,3132.34,7.39,Active,,
+1454,Customer_453,78,Female,South West,Savings,5.0,18248.29,12,9926.01,827.17,865.06,1.71,Active,,
+1119,Customer_118,64,Female,North,Savings,11.6,3913.2,14,25927.12,1851.94,26167.93,3.53,Closed,,
+1434,Customer_433,39,Male,North,Current,16.5,9417.49,23,32172.02,1398.78,28063.68,6.55,Active,,
+1379,Customer_378,36,Male,South West,Current,17.3,36028.4,23,44384.01,1929.74,24645.13,5.45,Closed,,
