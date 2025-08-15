@@ -92,8 +92,24 @@ Based on EDA insights, the following dashboards are planned for business reporti
 
 ---
 
-## Project Structure
+## Technologies Used
 
+- **SQL**: Data loading, cleaning, merging, aggregation. (PgAdmin)
+- **Python (Pandas, Matplotlib, Seaborn)**: Exploratory Data Analysis, visualization (PyCharm)
+- **Jupyter Notebook**: Interactive data exploration and analysis
+- **Dashboard Tools**: Power BI
+
+---
+
+## Outcome
+
+- Consolidated **Customer 360° view** dataset
+- Comprehensive insights into customer demographics, transactions, loans, and complaints
+- Data-driven recommendations for customer retention and engagement strategies
+- 5 Visual dashboards for easy executive interpretation, and decision making
+
+## Project Structure
+,,,
 Lloyd-s_Finance_Project/
 │
 ├── data/
@@ -116,19 +132,3 @@ Lloyd-s_Finance_Project/
 │   └── retention_recommendations_dashboard.png
 │
 └── README.md
-
-## Technologies Used
-
-- **SQL**: Data loading, cleaning, merging, aggregation. (PgAdmin)
-- **Python (Pandas, Matplotlib, Seaborn)**: Exploratory Data Analysis, visualization (PyCharm)
-- **Jupyter Notebook**: Interactive data exploration and analysis
-- **Dashboard Tools**: Power BI
-
----
-
-## Outcome
-
-- Consolidated **Customer 360° view** dataset
-- Comprehensive insights into customer demographics, transactions, loans, and complaints
-- Data-driven recommendations for customer retention and engagement strategies
-- 5 Visual dashboards for easy executive interpretation, and decision making
