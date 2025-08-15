@@ -94,7 +94,7 @@ Based on EDA insights, the following dashboards are planned for business reporti
 
 ## Project Structure
 ```text
-lloyds_project/
+Lloyd-s_Finance_Project/
 │
 ├── data/
 │   ├── customers.csv
