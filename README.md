@@ -132,10 +132,10 @@ Lloyd-s_Finance_Project/
 │   └── Lloyds_eda.ipynb
 │
 ├── dashboards/
-│   ├── executive_overview_dashboard.png
-│   ├── customer_profile_dashboard.png
-│   ├── loan_balance_analysis_dashboard.png
-│   ├── transaction_behavior_dashboard.png
-│   └── retention_recommendations_dashboard.png
+│   ├── dashboard 1 - executive_overview_dashboard.pdf and powerbi file
+│   ├── dashboard 2 - customer_profile_dashboard.pdf and powerbi file
+│   ├── dashboard 3 - loan_balance_analysis_dashboard.pdf and powerbi file
+│   ├── dashboard 4 - transaction_behavior_dashboard.pdf and powerbi file
+│   └── dashboard 5 - retention_recommendations_dashboard.pdf and powerbi file
 │
 └── README.md
