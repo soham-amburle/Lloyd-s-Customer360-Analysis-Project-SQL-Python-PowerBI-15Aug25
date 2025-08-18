@@ -1,4 +1,4 @@
-# Lloyd’s Customer 360 Analysis – Dashboard 3: Loan Balance Analysis  
+# Lloyds Customer 360 Analysis – Dashboard 3: Loan Balance Analysis  
 
 This dashboard provides a **comprehensive overview of the bank’s loan portfolio**, enabling decision-makers to assess lending exposure, analyze customer demographics, and detect financial stress signals. It integrates **portfolio KPIs, demographic patterns, interest rate distribution, and loan-to-balance comparisons** to highlight both opportunities and risks in the loan book. Interactive slicers allow targeted exploration across **loan status, age groups, regions, and individual customer details**.  
 
@@ -18,3 +18,4 @@ This dashboard provides a **comprehensive overview of the bank’s loan portfoli
 - Highlights **risk-prone customers** with high loans and low balances, enabling proactive credit risk management.  
 - Reveals **interest rate distributions**, supporting pricing and profitability analysis.  
 - Facilitates **customer-level deep dives** to design retention offers and manage churn risk effectively.  
+---
