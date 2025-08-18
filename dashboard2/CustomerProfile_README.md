@@ -16,5 +16,3 @@ This dashboard provides a detailed view of the **customer base** by consolidatin
 - Supports both **strategic insights** and **case-level decision-making** through a blend of high-level visuals and detailed tables.  
 
 ---
-
-📊 *Created as part of the Lloyd’s Customer 360 Analysis Project.*  
