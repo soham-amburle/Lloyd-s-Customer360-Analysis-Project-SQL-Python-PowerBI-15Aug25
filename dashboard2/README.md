@@ -1,6 +1,6 @@
 # Lloyds Customer 360 Analysis – Dashboard 2: Customer Profile
 
-This dashboard provides a detailed view of the **customer base** by consolidating demographics, financial insights, and customer experience into one interactive view. It equips decision-makers with the ability to quickly identify patterns across **age, gender, region, account type, and loan status**, while also monitoring key performance metrics.
+This dashboard offers a comprehensive view of the **customer base**, consolidating demographics, financial insights, and customer experience into a single interactive view. It equips decision-makers with the ability to quickly identify patterns across **age, gender, region, account type, and loan status**, while also monitoring key performance metrics.
 
 ## Key Features
 - **KPI Cards**: Total number of customers, average customer age, average tenure, and average balance.  
