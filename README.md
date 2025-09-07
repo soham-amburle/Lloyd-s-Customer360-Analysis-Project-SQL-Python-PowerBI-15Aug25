@@ -1,4 +1,4 @@
-## Explore Project Resources
+## Explore "Lloyds Customer 360 Analysis" Project Resources
 
 [![SQL](https://img.shields.io/badge/SQL-Database-blue)](sql/data_cleanup_and_merge.sql)  
 [![Python](https://img.shields.io/badge/Python-EDA-yellow)](python/eda_analysis.ipynb)  
