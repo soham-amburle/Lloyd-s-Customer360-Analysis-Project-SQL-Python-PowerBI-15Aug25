@@ -15,7 +15,7 @@ This dashboard provides a **holistic view of customer churn dynamics**, helping 
 - **Customer Retention Drill-Down**: Detailed table with customer-level insights (ID, demographics, balance, loan amount, loan status, transactions, complaints, and churn label).  
 
 ## How It Helps Decision-Makers  
-- Offers a **clear picture of churn rate and customer portfolio health** at a glance.  
+- Offers a **clear picture of churn rate as well as customer portfolio health** at a glance.  
 - Enables **segmented churn analysis** by region, age group, gender, and financial products.  
 - Reveals **patterns in loan status and account type churn**, helping tailor product-specific retention strategies.  
 - Identifies **high-risk customer segments** based on complaints, loan behavior, and balances.  
