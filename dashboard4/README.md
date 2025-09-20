@@ -1,6 +1,6 @@
 # Lloyds Customer 360 Analysis – Dashboard 4: Transaction Behaviour
 
-This dashboard delivers insights into **customer transaction patterns, spending behavior, and demographic influences**. It empowers decision-makers to identify high-value customers, uncover generational and gender-based differences, and detect potential risk signals in loan activity. Interactive slicers enable tailored exploration across **regions, age groups, loan status, complaints, and individual customer IDs**.
+This dashboard delivers insights into **customer transaction patterns, spending behavior, and demographic influences** in detail. It empowers decision-makers to identify high-value customers, uncover generational and gender-based differences, and detect potential risk signals in loan activity. Interactive slicers enable tailored exploration across **regions, age groups, loan status, complaints, and individual customer IDs**.
 
 ## Key Features
 - **KPI Cards**: Total transactions, average transaction amount, loan amount, and balance.  
