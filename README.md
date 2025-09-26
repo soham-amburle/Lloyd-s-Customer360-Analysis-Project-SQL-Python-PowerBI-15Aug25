@@ -6,7 +6,7 @@
 
 15 August, 2025
 
-# Lloyds Finance Project - Customer 360° Analysis
+# Lloyds Finance Project : Customer 360° Analysis
 
 ## Project Overview
 This project aims to build a comprehensive **Customer 360° view** for Lloyds Bank customers by consolidating multiple datasets (complaints, customers, loans, and transactions), performing exploratory data analysis (EDA), and developing insightful dashboards. The main objective is to understand customer demographics, transaction behavior, loan patterns, and retention opportunities.
