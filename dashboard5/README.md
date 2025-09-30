@@ -20,4 +20,6 @@ This dashboard provides a **holistic view of customer churn dynamics**, helping 
 - Reveals **patterns in loan status and account type churn**, helping tailor product-specific retention strategies.  
 - Identifies **high-risk customer segments** based on complaints, loan behavior, and balances.  
 - Supports **customer-level interventions** through detailed drill-down data for personalized retention actions.  
-- Facilitates **data-driven decision-making** by linking churn insights with key financial and demographic factors.  
+- Facilitates **data-driven decision-making** by linking churn insights with key financial and demographic factors.
+
+  
