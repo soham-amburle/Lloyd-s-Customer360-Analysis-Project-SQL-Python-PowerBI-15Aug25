@@ -1,7 +1,7 @@
 ## Explore "Lloyds Customer 360 Analysis" Project Resources
 
 [![SQL](https://img.shields.io/badge/SQL-Database-blue)](sql/data_cleanup_and_merge.sql)  
-[![Python](https://img.shields.io/badge/Python-Exploratory Data Analysis-yellow)](python/eda_analysis.ipynb)  
+[![Python](https://img.shields.io/badge/Python-Exploratory%20Data%20Analysis-yellow)](python/eda_analysis.ipynb)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-green)](dashboards/)
 
 15 August, 2025
