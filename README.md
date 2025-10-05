@@ -21,6 +21,7 @@ This project aims to build a comprehensive **Customer 360° view** for Lloyds Ba
   - Who are our most valuable customers?
   - What are transaction and loan behavior patterns?
   - Which factors influence churn and retention?
+  - How can we manage it?
 
 ---
 
