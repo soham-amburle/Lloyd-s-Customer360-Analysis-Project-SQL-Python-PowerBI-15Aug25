@@ -2,7 +2,7 @@
 
 This dashboard provides a **holistic view of customer churn dynamics**, helping decision-makers identify at-risk customers, understand churn drivers, and design targeted retention strategies. It integrates **portfolio KPIs, demographic patterns, product-level churn insights, and customer-level drill-downs** to deliver actionable recommendations. Interactive slicers allow exploration by **region and age group** for tailored retention analysis.  
 
-## Key Features  
+## Key Features:
 - **KPI Cards**: Average customer balance, overall customer churn rate, and average loan per customer.  
 - **Filters/Slicers**: Region filter and age group filter for focused churn analysis.  
 - **Churn by Demographics**:  
